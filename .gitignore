@@ -1,0 +1,41 @@
+
+
+# Large text files
+*.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# AI models
+models/
+checkpoints/
+
+*.pyc
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+
+# Datasets
+data/
+processed/
+
+
+models/
+logs/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.bin
+*.onnx
+*.safetensors
+.vscode/
+.DS_Store
