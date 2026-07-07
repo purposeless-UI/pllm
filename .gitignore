@@ -13,7 +13,7 @@ __pycache__/
 *.pyc
 
 # AI models
-models/
+
 checkpoints/
 
 *.pyc
@@ -22,13 +22,14 @@ checkpoints/
 *.bin
 *.onnx
 *.safetensors
+*.npy
 
 # Datasets
-data/
-processed/
 
 
-models/
+
+
+checkpoints/
 logs/
 __pycache__/
 *.pyc
